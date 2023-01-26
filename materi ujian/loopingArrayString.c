@@ -5,7 +5,7 @@
 void isiArray(char arr[][100], int size);
 void tampilkanArray(char arr[][100], int size);
 
-int main(void) {
+int main() {
     // Deklarasi variable
     int size;
 
