@@ -2,7 +2,7 @@
 
 ***source code of this repository is from [this video.](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=628s)***
 
-This repository is a comprehensive guide to C programming language fundamentals. It covers all the basic concepts of C, from data types to control structures, functions, arrays, and pointers. The repository includes well-commented code examples and exercises to reinforce your learning. Whether you're a beginner or looking to brush up on your C skills, this repo is a valuable resource for mastering the fundamentals of this versatile and widely-used language.
+This repository is a comprehensive guide to C programming language fundamentals. It covers all the basic concepts of C, from data types to control structures, functions, arrays, and pointers. The repository includes well-commented code examples. Whether you're a beginner or looking to brush up on your C skills, this repo is a valuable resource for mastering the fundamentals of this versatile and widely-used language.
 
 
 ## Roadmap
