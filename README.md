@@ -70,7 +70,9 @@ gcc --version
 - remote repo
 
 ```bash
-  git remote https://github.com/RizkyFauziIlmi/C-Fundamental.git
+  git clone https://github.com/RizkyFauziIlmi/C-Fundamental.git
+```
+```bash
   cd C-Fundamental
 ```
 
