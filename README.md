@@ -56,3 +56,35 @@ This repository is a comprehensive guide to C programming language fundamentals.
 - reading files 🔎
 - Tic Tac Toe game ⭕
 - Materi Ujian (UAS)
+
+## Installation
+
+***Make sure that you have installed C Compiler on your device***
+to check if you have C compiler you can run this
+```bash
+gcc -v
+// or
+gcc --version
+```
+
+- remote repo
+
+```bash
+  git remote https://github.com/RizkyFauziIlmi/C-Fundamental.git
+  cd C-Fundamental
+```
+
+## Usage/Examples
+
+- compile C from Command Line
+
+```bash
+cd [folder-name]
+gcc [file-name.c]
+[file-name.exe]
+```
+
+- Compile C with extensions such as ***Code runner (VSCode)***
+  ![](https://github.com/RizkyFauziIlmi/C-Fundamental/blob/master/code%20runner.png)
+  ***!NOTE: To be able to enter input, you can set your code runner extension to always run in the terminal***
+  ![](https://github.com/RizkyFauziIlmi/C-Fundamental/blob/master/run%20in%20terminal.png)
