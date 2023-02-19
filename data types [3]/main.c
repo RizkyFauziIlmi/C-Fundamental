@@ -26,7 +26,7 @@ int main() {
     printf("char: %c\n", a);
     printf("string: %s\n", name);
     printf("flaot: %f\n", phi);
-    printf("phiNumber: %l\n", phiNumber);
+    printf("phiNumber: %lf\n", phiNumber);
     printf("boolean: %d (true = 1 & false = 0)\n", male);
 
     return 0;
